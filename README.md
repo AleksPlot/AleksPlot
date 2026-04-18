@@ -42,6 +42,10 @@ My journey in army and life has led me to develop a passion for cybersecurity, a
 ## Certifications
 
 <div>
+
+ <a href="./itq-certificate.png">
+  <img src="https://img.shields.io/badge/-ITQ%20Cyber%20Security-orange?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</a>
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QQRCXILSPI.pdf">
   <img src="https://img.shields.io/badge/-PRE--SECURITY%20THM-FF0000?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </a>
