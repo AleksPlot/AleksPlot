@@ -19,6 +19,7 @@ My current interests include:
 
 My journey through military service and personal projects led me to develop a strong interest in IT infrastructure, cybersecurity, and security-focused engineering.
 I am currently focused on building practical hands-on experience through home lab environments and real-world projects.
+My long-term interests include DevOps, infrastructure automation, and security-aware system operations.
 
  ## Skills
 
@@ -27,7 +28,7 @@ I am currently focused on building practical hands-on experience through home la
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/AleksPlot/Detection-Malware-Lab/tree/main">Detection-Malware-lab</a>|
 
-## Tools that i used (might be divided by categories into each one) 
+## Tools & Technologies 
 
 
 ### Network
@@ -44,7 +45,7 @@ I am currently focused on building practical hands-on experience through home la
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
 </div>
 
-### Monitoring & SIEM
+### Monitoring & Logging
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sysmon-5C2D91?&style=for-the-badge&logo=windows-terminal&logoColor=white" />
@@ -60,7 +61,6 @@ I am currently focused on building practical hands-on experience through home la
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=virustotal&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows_Event_Logs-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux_Logs-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
