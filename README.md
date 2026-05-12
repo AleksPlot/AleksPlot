@@ -16,9 +16,10 @@ My current interests include:
 
 ## Objective
 
-
 My journey through military service and personal projects led me to develop a strong interest in IT infrastructure, cybersecurity, and security-focused engineering.
+
 I am currently focused on building practical hands-on experience through home lab environments and real-world projects.
+
 My long-term interests include DevOps, infrastructure automation, and security-aware system operations.
 
  ## Skills
@@ -26,7 +27,7 @@ My long-term interests include DevOps, infrastructure automation, and security-a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/AleksPlot/Detection-Malware-Lab/tree/main">Detection-Malware-lab</a>|
+| Sysmon Telemetry & Splunk Log Analysis        | <a href="https://github.com/AleksPlot/Detection-Malware-Lab/tree/main">Detection-Malware-lab</a>|
 
 ## Tools & Technologies 
 
@@ -37,7 +38,7 @@ My long-term interests include DevOps, infrastructure automation, and security-a
     <img src="https://img.shields.io/badge/-TCP/IP-00599C?&style=for-the-badge&logo=protocolsdotio&logoColor=white" />
 </div>
  
-## Operating Systems
+### Operating Systems
 <div>
     <img src="https://img.shields.io/badge/-Windows_10-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
