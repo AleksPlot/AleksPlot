@@ -72,6 +72,9 @@ My long-term interests include DevOps, infrastructure automation, and security-a
  <a href="https://raw.githubusercontent.com/AleksPlot/AleksPlot/main/itq-certificate.png" target="_blank">
   <img src="https://img.shields.io/badge/-ITQ%20Cyber%20Security-orange?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </a>
+<a href="https://raw.githubusercontent.com/AleksPlot/AleksPlot/main/army-communications-course.png" target="_blank">
+  <img src="https://img.shields.io/badge/-IDF%20Communications%20Course-blue?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+</a>
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QQRCXILSPI.pdf">
   <img src="https://img.shields.io/badge/-PRE--SECURITY%20THM-FF0000?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </a>
