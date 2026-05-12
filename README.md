@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/alexander-plotnikov1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-# Hello, I'm Aleksandr
+# About me
 
 I am an IT and infrastructure enthusiast with hands-on experience building virtualized lab environments focused on Windows telemetry, log analysis, networking, and security monitoring.
 
@@ -17,7 +17,8 @@ My current interests include:
 ## Objective
 
 
-My journey in army and life has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey through military service and personal projects led me to develop a strong interest in IT infrastructure, cybersecurity, and security-focused engineering.
+I am currently focused on building practical hands-on experience through home lab environments and real-world projects.
 
  ## Skills
 
@@ -32,21 +33,35 @@ My journey in army and life has led me to develop a passion for cybersecurity, a
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TCP/IP-00599C?&style=for-the-badge&logo=protocolsdotio&logoColor=white" />
+</div>
+ 
+## Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Windows_10-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-557C94?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
 </div>
 
-### Endpoint
+### Monitoring & SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-5C2D91?&style=for-the-badge&logo=windows-terminal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Event_Logs-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
+### Virtualization & Infrastructure
+<div>
+    <img src="https://img.shields.io/badge/-VMware_Workstation-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
+</div>
+
+### Scripting & Investigation
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=virustotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Event_Logs-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux_Logs-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 ## Certifications
@@ -59,12 +74,8 @@ My journey in army and life has led me to develop a passion for cybersecurity, a
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QQRCXILSPI.pdf">
   <img src="https://img.shields.io/badge/-PRE--SECURITY%20THM-FF0000?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
 - <a href="https://github.com/AleksPlot/Detection-Malware-Lab/tree/main">Detection-Malware-lab</a>
-- SOC Automation Project
+
