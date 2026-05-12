@@ -2,7 +2,17 @@
 <a href="https://linkedin.com/in/alexander-plotnikov1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+# Hello, I'm Aleksandr
+
+I am an IT and infrastructure enthusiast with hands-on experience building virtualized lab environments focused on Windows telemetry, log analysis, networking, and security monitoring.
+
+My current interests include:
+- infrastructure engineering,
+- networking,
+- system administration,
+- virtualization,
+- DevOps,
+- and security-focused monitoring.
 
 ## Objective
 
